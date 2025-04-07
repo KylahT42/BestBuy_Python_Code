@@ -9,7 +9,7 @@ March 30, 2025.
 Course:
 ITT103 
 
-GitHub URL:
+GitHub URL:https://github.com/Kyl3Th0m4s/BestBuy_Python_Code/blob/main/thomas_hunt_thomas_major_project_itt103_sp2025.py
 
 Purpose of Code:
 The following features are built into this Point-of-Sale (POS) system to handle retail transactions: 
